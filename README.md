@@ -39,12 +39,6 @@ This repo does **not** contain any confidential data or API keys. Environment-sp
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 
 ## 🙌 Contributions
 
